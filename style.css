@@ -1,0 +1,46 @@
+
+.container-left{
+    position:sticky;
+    width: 401px;
+    height: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.container-right{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color:white;
+}
+
+.input{
+    color: white;
+    background-color: rgb(37, 36, 36);
+    width: 812px;
+    height: 46px;
+    border: none;
+}
+
+#btn1{
+    border: none;
+    background-color: red;
+    border-radius: 5px;
+width: 176px;
+height: 46px;
+}
+
+#btn2{
+    border: none;
+    background-color: red;
+    border-radius: 5px;
+    width: 176px;
+    height: 46px;
+}
+.main-container{
+    display: flex;
+    background-color: black;
+}
